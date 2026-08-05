@@ -29,6 +29,12 @@ FTP Honeypot is a SOC-grade deception platform that simulates a vulnerable FTP s
 
 ---
 
+## Images
+
+<img width="1572" height="652" alt="image" src="https://github.com/user-attachments/assets/44cf4440-fee5-4201-9a8c-a448b41aab72" />
+<img width="752" height="625" alt="image" src="https://github.com/user-attachments/assets/46b819de-c80a-4aeb-ad49-5c8f55e400b5" />
+
+---
 ## Architecture
 
 ```
